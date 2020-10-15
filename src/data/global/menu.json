@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Nosotros",
+        "link": "#nosotros",
+        "isSubmenu": false,
+        "submenu": []
+    },
+    {
+        "text": "Servicios",
+        "link": "#servicios",
+        "isSubmenu": false,
+        "submenu": []
+    },
+    {
+        "text": "Metodología",
+        "link": "#metodologia",
+        "isSubmenu": false,
+        "submenu": []
+    },
+    {
+        "text": "Contáctanos",
+        "link": "#contacto",
+        "isSubmenu": false,
+        "submenu": []
+    }
+]

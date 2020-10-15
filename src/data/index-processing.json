@@ -1,0 +1,76 @@
+[
+    {
+        "id": "processing-hero-content",
+        "title": "Datos reales para <span>decisiones reales</span>",
+        "subtitle": "Arquitectura y análisis de datos",
+        "text": "Toma la mejor decisión para tu negocio",
+        "link": "#contacto",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "bg_image": "./images/hero/hero4.jpg",
+        "image": "./images/hero/human_bussines_2.png"
+    },
+    {
+        "id": "processing-about-content",
+        "title": "Simplificamos la información de tu empresa para que tomes <span>la mejor decisión</span>.",
+        "subtitle": "Nuestra empresa",
+        "video_link": "https://www.youtube.com/watch?v=vqZuSUtczbU",
+        "faq": [
+            {
+                "id": "about-faq-1",
+                "title": "Cómo podemos ayudar a tu negocio?",
+                "content": "Nuestra especialidad es la transformación de datos, para la generación de información coherente y funcional que apoyen el desarrollo de tu empresa. "
+            },
+            {
+                "id": "about-faq-2",
+                "title": "Por qué XIFRATECH?",
+                "content": "No solo son datos, nuestro análisis está fuertemente relacionado con los objetivos de tu empresa; XIFRATECH busca establecer rutas de transformación basadas en datos, estableciendo los mínimos y los máximos permitidos, para superar los retos de tu compañía."
+            },
+            {
+                "id": "about-faq-3",
+                "title": "Cómo trabajamos?",
+                "content": "Nuestra metodología está fundamentada en 3 secciones a las que nombramos capítulos, en el 1º capítulo entendemos el contexto de tu empresa, en el 2º capítulo analizamos la información, y seleccionamos a el equipo indicado para tu necesidad, en 3º capítulo generamos un plan de desarrollo e iniciamos el viaje."
+            }
+        ],
+        
+        "image1": "./images/about-us/analytics.png",
+        "image2": "./images/about-us/icons/Startup_PNG.png",
+        "image3": "./images/about-us/icons/Marketing_strategy_PNG.png",
+        "image4": "./images/about-us/icons/Business_PNG.png",
+        "main_image": "./images/about-us/icons/Data_chart_PNG.png"
+    },
+    {
+        "id": "processing-features-content",
+        "title": "Aprovecha los datos de tu organización <br/> y toma las <span>mejores decisiones.</span>",
+        "subtitle": "Nuestros servicios"
+    },
+    {
+        "id": "processing-fun-fact-content",
+        "title": "<mark>38</mark> Years’ Experience in IT",
+        "subtitle": "Learn more about our <span>Success Stories</span>"
+    },
+    {
+        "id": "processing-cta-content",
+        "title": "Arquitectura y análisis de datos",
+        "text": "Datos reales para decisiones reales.",
+        "link_text": "Acepta el reto!",
+        "link": "#contacto"
+    },
+    {
+        "id": "processing-service-content",
+        "title": "Desarrolla tu potencial, <br/> conoce nuestra <span>metodología.</span>",
+        "subtitle": "Cómo trabajamos",
+        "service_link": "/it-solutions",
+        "contact_link": "/contact-us"
+    },
+    {
+        "id": "processing-contact-section",
+        "title": "Necesitas ayuda?",
+        "subtitle": "Nuestro equipo responderá tu solicitud, en el menor tiempo posible.",
+        "bgImage": "./images/bg/contact-section-bg.png",
+        "contact_info": {
+            "title": "Habla con un asesor!",
+            "phone": "(+57) 300 485-9118",
+            "text": "Estamos disponibles a resolver cualquier pregunta."
+        }
+    }
+]
