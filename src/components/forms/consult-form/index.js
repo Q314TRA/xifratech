@@ -37,16 +37,16 @@ const ConsultForm = ({ btnStyle }) => {
                 "Messages": [
                     {
                         "From": {
-                            "Email": "admin@aldebarant.com",
+                            "Email": "contacto@xifratech.com",
                             "Name": "XIFRATECH"
                         },
                         "To": [
                             {
-                                "Email": "admin@aldebarant.com",
-                                "Name": "aldebarant"
+                                "Email": "contacto@xifratech.com",
+                                "Name": "XIFRATECH"
                             }
                         ],
-                        "Subject": `XIFRATECH ${data.subject}`,
+                        "Subject": `${data.subject}`,
                         "TextPart": 'Concato web',
                         "HTMLPart": `<h3>Contacto</h3>, <br/> 
                     <p><strong>Email:<strong>${data.email}<p>
